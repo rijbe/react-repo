@@ -1,13 +1,14 @@
 
 import './App.css'
+import Posts from './Posts'
 
 function App() {
  
   return (
     <>
       
-      <h1>Vite + React</h1>
-      
+      <h1>Simple React Data Show</h1>
+      <Posts></Posts>
     </>
   )
 }
